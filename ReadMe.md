@@ -45,6 +45,6 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at JRSMXDEV!GMAIL.COM. You can find more of my work at [Jasmine Tuff](https://github.com/Jasmine Tuff/).
+  If you have any questions about the repo, open an issue or contact me directly at JRSMXDEV!GMAIL.COM. You can find more of my work at [Jasmine Tuff](https://github.com/JasmineTuff/).
   
   
