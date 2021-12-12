@@ -4,7 +4,7 @@ const Employee = require("./employee");
 //Create a class for Manager that is an extension from the Employee file. 
 class Manager extends Employee {
     constructor(name, id, email, officeNumber) {
-        super(name, id, email, school); 
+        super(name, id, email); 
         this.officeNumber= officeNumber;
     }
 //Get office number and return it. 

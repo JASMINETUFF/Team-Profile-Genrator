@@ -4,7 +4,7 @@ const Employee = require("./employee");
 //Create a class for Engineer that is an extension from the Employee file. 
 class Engineer extends Employee {
     constructor(name, id, email, github) {
-        super(name, id, email, school); 
+        super(name, id, email); 
         this.github = github;
     }
 //Gets github and returns it
